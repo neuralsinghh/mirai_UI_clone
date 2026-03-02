@@ -1,0 +1,190 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+}
+header{
+    display: flex;
+    justify-content: space-around;
+    /* justify-content: center; */
+    padding: 20px;
+    
+
+}
+
+header img{
+    /* height: 35px; */
+     height: 0.99rem;
+}
+
+a{
+    text-decoration: none;
+    margin: 25px;
+    color: rgb(25, 24, 24);
+    font-size: larger;
+    margin-top: 7px;
+    
+
+}
+
+main img{
+    height: 500px;
+}
+main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* background-color: aqua; */
+    height: 95vh;
+    justify-content: center;
+    gap: 25px;
+}
+
+button{
+    background-color:  #387ed1;
+    color: white;
+    padding: 10px;
+    width: 200px;
+    border-radius: 6px;
+    font-size: larger;
+    border: 0cap;
+}
+
+.Heading-1 h2{
+    margin-left: 2vw;
+    font-size: 1.5rem;
+    color: #424242;
+    margin-top: 7rem;
+    margin-bottom: 2px;
+}
+
+.Article{
+    color: #424242;
+    line-height: 2rem;
+
+}
+
+.Article #Customer-First{
+    margin-left:2rem;
+    margin-top: 2rem;
+    margin-bottom: 0px;
+}
+
+.Article p{
+    margin-top: 10px;
+    margin-left:2rem;
+    opacity: 60%;
+    
+}
+
+Article h3{
+    margin-top: 20px;
+    margin-left: 2rem;
+}
+    
+div{
+    position:relative;
+
+}
+
+aside{
+    position: absolute;
+    top: 0;
+    right: 0;
+    /* bottom:; */
+    /* display: flex; */
+    /* align-items: flex-start; */
+    /* flex: 1; */
+    padding-right:20px ;
+    padding-left: 500px;
+    padding-top: 40px;
+}
+
+ .image-else {
+    align-items: center;
+    margin-left:20rem ;
+    margin-right: 0px;
+}
+
+.Next-Article {
+    margin-top: 5rem;
+    color: #424242;
+    line-height: 2rem;
+    margin-left: 2rem;
+}
+
+.Next-Article h3{
+    margin-bottom: 10px;
+}
+
+.Next-Article .Para-4{
+    opacity: 60%;
+    margin-left: 0.2rem;
+    color: #424242;
+}
+
+a{
+    color:#424242 ;
+    margin-top: 100px;
+    margin-left: 0.2rem;
+}
+
+.Next-Article .image-2{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+
+.Another-section{
+    position: relative;
+
+}
+
+.Another-section .image-2{
+    position: absolute;
+    right: 0px;
+    top: 0px;
+    margin-top:0px ;
+}
+
+.Image-3{
+    margin-left: 60px;
+}
+
+.Para-5{
+    margin-top: 200px;
+    margin-right: 15rem;
+    align-items: center;
+    color: #424242;
+    margin-bottom: 10px;
+    line-height: 40px;
+}
+
+section .Para-Free{
+    margin-top:1rem;
+    line-height: 30px;
+    color: #424242;
+    opacity: 60%;
+    /* margin-bottom: 0px; */
+}
+
+.Bottom{
+    color: #424242;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    gap: 20px;
+    padding: 0px;
+    margin: 0px;
+    /* margin-bottom: 0px; */
+}
+
+.Account-1{
+    display: flex;
+    /* display: table-column; */
+    columns:20px;
+    /* align-items: center; */
+    margin-left: 100px;
+    list-style: none;
+    color: #424242;
+}
